@@ -1,0 +1,1 @@
+npm install @whiskeysockets/baileys pino qrcode-terminal mongoose dotenv

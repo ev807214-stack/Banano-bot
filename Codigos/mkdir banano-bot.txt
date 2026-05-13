@@ -1,0 +1,2 @@
+mkdir banano-bot
+cd banano-bot
